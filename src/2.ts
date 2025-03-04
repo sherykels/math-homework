@@ -1,0 +1,1 @@
+`const getRandomNumber = () => Math.floor(Math.random() * 10) + 1; const getSum = (a, b) => a + b; console.log(getSum(getRandomNumber(), getRandomNumber()));`
